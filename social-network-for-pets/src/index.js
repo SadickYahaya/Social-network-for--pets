@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Profile } from './Profile';
-import { Directory } from './social-network-for-pets/src/Directory';
+import { Directory } from './Directory';
+import './styles.css'
 
 class App extends React.Component {
   constructor(props) {
